@@ -1,4 +1,3 @@
-layout_spectrum: 0.9991056767757982
 typography_spectrum: 0.9378937284927815
 color:
   brandStrength: 0.277767384191975
@@ -6,9 +5,11 @@ color:
   saturation: 0.3505922977346927
   rhythmicContrast: 0.11782656121067703
   brandColors:
-    - '#FFFFFF'
-    - '#1C1E1D'
-    - '#B4695E'
-    - '#9B9D92'
-    - '#693F37'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.9991056767757982
 name: The Rengeleers
+title: Into the great unkown
