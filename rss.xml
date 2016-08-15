@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Rengeleers]]></title>
+        <description><![CDATA[The Rengeleers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 16:58:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space]]></title>
+            <description><![CDATA[<article><h1>Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space</h1><p>Back in 2010, San Francisco-based photographer Christopher Michel received a once-in-a-lifetime photo assignment from the US Navel Institute: to ride in the back seat of a U-2 spy plane at the "edge of space." At the plane's cruising and intelligence-gathering altitude of 70,000 feet above the ground, temperatures outside the plane fall to 70 degrees below zero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04f6c0633f5a485f90dde99e96cd653a67f86bd6.jpg"></article>]]></description>
+            <link>http://petapixel.com/2015/05/24/assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-edge-of-space/</link>
+            <guid isPermaLink="false">f8785e58-239d-4ebb-8d52-9dd11a047cae</guid>
+            <pubDate>Mon, 15 Aug 2016 16:58:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
